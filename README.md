@@ -26,6 +26,11 @@ The following settings can be configured in file `system/extensions/yellow-syste
 
 Settings coming soon!
 
+MicroPubPostsDir
+MicroPubArticleDIR
+MicroPubPhotosDIR
+MicroPubReplyDIR
+MicroPubBookmarksDIR
 
 ## Acknowledgements
 
